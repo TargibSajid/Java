@@ -1,0 +1,13 @@
+Hoodie/1/2000
+Jeans/2/900
+T-shirt/3/1600
+Shirt/4/1400
+Saree /5/6450
+Hijab/6/2900
+Makeup kit/7/2300
+Sandal/8/975
+T-shirt/9/175
+Sandal/10/315
+Pants/11/960
+Watch/12/750
+

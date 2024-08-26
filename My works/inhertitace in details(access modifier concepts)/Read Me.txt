@@ -1,0 +1,9 @@
+1.first test is we can do it without protected accesmodifier ...my thinkking was wrong at first ..
+i thought child class a hase invisible members after extendinng for reusibility of code ..but i was wrong ...they dont havve invisible members after extending ..they just use the members of parent class for depends on the acces that how much they can use it or not 
+
+
+2.understanding so carefully ..
+
+3. method overrading also depending on acces modifire.
+
+4. we have to use same access modifirer in overriding in case if we want to use something else we have to use more accesssable modifier while overriding  
